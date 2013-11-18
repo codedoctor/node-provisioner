@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "provision.js",
+  "sourceRoot": "../src/",
+  "sources": [
+    "provision.coffee"
+  ],
+  "names": [],
+  "mappings": "AAGA;CAAA,KAAA,GAAA;;CAAA,CAAA,CAAiB,GAAX,CAAN,EAAiB;CACf,CAAc,CAAA,CAAd,KAAe,GAAf;CADF,GAAA;CAAA"
+}

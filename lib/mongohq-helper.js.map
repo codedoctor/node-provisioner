@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "mongohq-helper.js",
+  "sourceRoot": "../src/",
+  "sources": [
+    "mongohq-helper.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,CAAA,CAAiB,GAAX,CAAN;CAAA"
+}

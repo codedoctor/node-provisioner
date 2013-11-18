@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "dnssimple-helper.js",
+  "sourceRoot": "../src/",
+  "sources": [
+    "dnssimple-helper.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,CAAA,CAAiB,GAAX,CAAN;CAAA"
+}

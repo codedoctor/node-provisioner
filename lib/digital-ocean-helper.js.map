@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "digital-ocean-helper.js",
+  "sourceRoot": "../src/",
+  "sources": [
+    "digital-ocean-helper.coffee"
+  ],
+  "names": [],
+  "mappings": "AACA;CAAA,CAAA,CAAiB,GAAX,CAAN;CAAA"
+}
