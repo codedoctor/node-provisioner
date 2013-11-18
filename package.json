@@ -27,7 +27,9 @@
     "underscore": ">=1.5.2",
     "digitalocean.node" : "0.0.1",
     "mongohq" : "0.3.1",
-    "dnsimple" : "0.1.4"
+    "dnsimple" : "0.1.4",
+    "github" : "0.1.12",
+    "async" : "0.2.9"
   },
   "devDependencies": {
     "coffee-script": "1.6.3",
